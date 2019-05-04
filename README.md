@@ -1,2 +1,0 @@
-# UofC
-Learning Git now.
